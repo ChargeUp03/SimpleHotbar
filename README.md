@@ -10,7 +10,7 @@ SimpleHotbar replaces all the hotbar icons and the hotbar itself with simplified
 
 ## Installation
 
-[[#Minecraft Java Edition]] | [[#Minecraft Bedrock Edition]]
+[Minecraft: Java Edition](#minecraft-java-edition) | [Minecraft: Bedrock Edition](#minecraft-bedrock-edition)
 
 ### Minecraft: Java Edition
 1. Download `SimpleHotbar.zip`
