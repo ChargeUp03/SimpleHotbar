@@ -8,7 +8,7 @@ SimpleHotbar replaces all the hotbar icons and the hotbar itself with simplified
 
 ![The simplified hotbar.](hotbar.png)
 
-[Releases](https://github.com/ChargeUp03/SimpleHotbar/releases) | Modrinth
+[Releases](https://github.com/ChargeUp03/SimpleHotbar/releases) | [Modrinth](https://modrinth.com/resourcepack/simplehotbar)
 
 ## Overview 
 
