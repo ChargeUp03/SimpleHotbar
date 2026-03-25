@@ -48,7 +48,8 @@ Q: What did you use to create these icons? \ A: I used a web-based tool called P
 
 ## Changelog
 
-[Current] v1.0 - First release! (3.6.2026)
+- [Current] v1.1 - Updated bowtie.png and internal files (3.24.2026
+- v1.0 - First release! (3.6.2026)
 
 ## 
 
