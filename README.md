@@ -36,7 +36,7 @@ Q: Will you release a Bedrock version? \ A: Yes! It's currently work in progress
 
 Q: Does this work with other resource packs? \ A: SimpleHotbar works with any resource pack, besides those that modify the hotbar and its icons.
 
-Q: What versions of Minecraft Java is this compatible with? \ A: 1.20.2 and onward. Tested on 1.21.11.
+Q: What versions of Minecraft Java is this compatible with? \ A: 1.20.2+, 1.21.x, and 26.1. Tested on 1.21.11 and 26.1.
 
 Q: Can I use this in my modpack? \ A: Yes, but ask me first and credit me.
 
